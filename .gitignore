@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*.xlsx
+~$*.docx
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sensitive/local files
+.env
+*.log
